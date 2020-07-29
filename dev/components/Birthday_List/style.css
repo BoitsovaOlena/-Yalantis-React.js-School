@@ -1,0 +1,15 @@
+ol {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    width: 100%;
+
+    max-height: 270px;
+
+    margin: 0;
+}
+ol li {
+    margin-bottom: 5px;
+}
